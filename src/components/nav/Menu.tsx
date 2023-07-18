@@ -69,15 +69,6 @@ export default function Menu() {
               <LinkedInIcon />
             </span>
           </a>
-          <a
-            href='https://twitter.com/alif_faizar'
-            target='_blank'
-            className='flex flex-col items-center justify-center h-16 lg:h-20 group bg-cyan-950 hover:text-cyan-400'
-          >
-            <span className='w-6 h-6 lg:w-8 lg:h-8 group-hover:scale-125'>
-              <TwitterIcon />
-            </span>
-          </a>
         </div>
       </div>
       <MobileNav scrollTo={scrollTo} />

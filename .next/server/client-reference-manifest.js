@@ -742,58 +742,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./src/components/nav/Menu.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/nav/Menu.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/nav/Menu.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/nav/Menu.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/nav/MobileNav.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
@@ -876,6 +824,58 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/nav/Menu.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/nav/Menu.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/nav/Menu.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/nav/Menu.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/nav/MobileNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/nav/MobileNav.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       }
@@ -2584,75 +2584,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/sangga/Documents/react/portofolio/node_modules/md-editor-rt/lib/preview.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/sangga/Documents/react/portofolio/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/sangga/Documents/react/portofolio/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx": {
-      "id": "(app-client)/./src/components/nav/Menu.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx#": {
-      "id": "(app-client)/./src/components/nav/Menu.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx#default": {
-      "id": "(app-client)/./src/components/nav/Menu.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx": {
-      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx#": {
-      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx#default": {
-      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
     "/Users/sangga/Documents/react/portofolio/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
       "name": "*",
@@ -2762,6 +2693,75 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/node_modules/md-editor-rt/lib/preview.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/sangga/Documents/react/portofolio/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/sangga/Documents/react/portofolio/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx": {
+      "id": "(app-client)/./src/components/nav/Menu.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx#": {
+      "id": "(app-client)/./src/components/nav/Menu.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/Menu.tsx#default": {
+      "id": "(app-client)/./src/components/nav/Menu.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx": {
+      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx#": {
+      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/sangga/Documents/react/portofolio/src/components/nav/MobileNav.tsx#default": {
+      "id": "(app-client)/./src/components/nav/MobileNav.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     }
