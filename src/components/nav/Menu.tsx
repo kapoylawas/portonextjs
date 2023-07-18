@@ -5,7 +5,7 @@ import {
   HomeIcon,
   UserIcon,
 } from '@heroicons/react/24/solid'
-import { GithubIcon, LinkedInIcon, TwitterIcon } from '../Icons'
+import { GithubIcon, LinkedInIcon } from '../Icons'
 import MobileNav from './MobileNav'
 
 export default function Menu() {
